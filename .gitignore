@@ -2,3 +2,5 @@ spark-warehouse
 target/
 .idea/
 project/
+*.class
+*.log
